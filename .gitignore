@@ -1,2 +1,6 @@
 /feature_distributions.png
 /knn_k_comparison.png
+Data/confusion_matrix.png
+.gitignore
+Data/step7_analysis.png
+Data/knn_k_comparison.png
